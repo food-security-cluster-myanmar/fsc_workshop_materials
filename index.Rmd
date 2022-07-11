@@ -64,6 +64,10 @@ library(tidytext)
 
 <br>
 
+[Download plots and chart](https://github.com/food-security-cluster-myanmar/fsc_workshop_materials/tree/main/plots)
+
+<br>
+
 #### 1.5 Necessity to support agriculture and livelihoods projects
 
 [pdf](https://github.com/food-security-cluster-myanmar/fsc_workshop_materials/raw/main/presentations/1.5%20FAO%20Myanmar%20Emergency%20Livelihoods%20Response%20Final.pdf)
@@ -95,6 +99,10 @@ library(tidytext)
 [Township prioritisation document](https://food-security-cluster-myanmar.github.io/mmr_township_prioritisation/)
 
 [Notes on beneficiary profile](https://food-security-cluster-myanmar.github.io/eda_highlights_round3/)
+
+<br>
+
+[Download plots and chart](https://github.com/food-security-cluster-myanmar/fsc_workshop_materials/tree/main/plots)
 
 <br>
 
