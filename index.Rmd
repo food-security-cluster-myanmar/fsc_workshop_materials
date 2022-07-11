@@ -12,8 +12,18 @@ output:
     collapsed: false
     code_folding: hide
 always_allow_html: true
+google analytics: G-B8HSFWPYLH
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B8HSFWPYLH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B8HSFWPYLH');
+</script>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning=FALSE)
